@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StarCloths/static/css/main.af377338.chunk.css",
+    "main.js": "/StarCloths/static/js/main.eebdd193.chunk.js",
+    "main.js.map": "/StarCloths/static/js/main.eebdd193.chunk.js.map",
+    "runtime-main.js": "/StarCloths/static/js/runtime-main.e0927dff.js",
+    "runtime-main.js.map": "/StarCloths/static/js/runtime-main.e0927dff.js.map",
+    "static/js/2.39bbcbee.chunk.js": "/StarCloths/static/js/2.39bbcbee.chunk.js",
+    "static/js/2.39bbcbee.chunk.js.map": "/StarCloths/static/js/2.39bbcbee.chunk.js.map",
+    "index.html": "/StarCloths/index.html",
+    "static/css/main.af377338.chunk.css.map": "/StarCloths/static/css/main.af377338.chunk.css.map",
+    "static/js/2.39bbcbee.chunk.js.LICENSE.txt": "/StarCloths/static/js/2.39bbcbee.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "/StarCloths/static/media/crown.207ae289.svg",
+    "static/media/shopping-bag.a688874f.svg": "/StarCloths/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0927dff.js",
+    "static/js/2.39bbcbee.chunk.js",
+    "static/css/main.af377338.chunk.css",
+    "static/js/main.eebdd193.chunk.js"
+  ]
+}
